@@ -18,7 +18,7 @@ de forma asincrona usando un threadpool.
 
 -  Clonar repositorio.
 ```sh
-$ git clone https://github.com/jegutierrez/bank-transactions
+$ https://github.com/Hlpenam/PruebaDav.git
 ```
 -  Hacer el build con maven.
 ```sh
@@ -61,7 +61,7 @@ Ejemplo de transaccion procesada:
   "id": 1,
   "source": 100000,
   "target": 100004,
-  "amount": 222,
+  "amount": 20000,
   "type": "TRANSFERENCIA"
   "tax": 11.100000000000001,
   "status": "EXITOSO"
