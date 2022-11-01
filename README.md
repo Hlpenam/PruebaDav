@@ -1,4 +1,4 @@
-# PRUEBA TECNICA DAVIVIENDA
+# PRUEBA
 API REST para procesar transacciones bancarias usando Spring Boot, con persistencia 
 en memoria con JPA y Hibernate usando base de datos H2, las transacciones se procesan 
 de forma asincrona usando un threadpool.
